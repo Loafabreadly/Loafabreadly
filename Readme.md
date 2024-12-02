@@ -7,13 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loafabreadly" alt="loafabreadly" /></a> </p>
 
 
-- 🌱 I’m currently learning **Bash, Neovim, Kubernetes**
+- 🌱 I’m currently learning **Bash, Kubernetes, Dynatrace, Self-Hosting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loafabreadly?tab=repositories](https://github.com/Loafabreadly?tab=repositories)
 
-- 📝 I regularly write articles on [https://brad.snurka.tech](https://brad.snurka.tech)
-
-- 💬 Ask me about **Cloud Engineering (AWS, GCP), Virtualization (VMware), CI/CD, Docker, Kubernetes**
+- 💬 Ask me about **Cloud Engineering (AWS, GCP, Azure), Virtualization (VMware), CI/CD, Docker, Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
